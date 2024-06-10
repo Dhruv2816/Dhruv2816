@@ -114,12 +114,12 @@ Some things about me : </div>
   <tr>
    <td align="left">
       <a href="https://github.com/Dhruv2816/Movie_recommender">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=Students_Score_Predictor" alt="Students Score Predictor">
+        <img src="https://github.com/Dhruv2816/Movie_recommender&repo=Movie_recommender" alt="Movie recommendation">
       </a>
     </td>
     <td align="right">
       <a href="https://github.com/Dhruv2816/Movie_recommender">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=IPL_second_innings_match_win_predictor_HEROKU" alt="IPL Second Innings Match Win Predictor">
+        <img src="https://github.com/Dhruv2816/Movie_recommender&repo=Movie_recommender" alt="Movie recommendation">
       </a>
     </td>
   </tr>
