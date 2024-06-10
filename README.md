@@ -29,7 +29,7 @@ Some things about me : </div>
 </a>
  -->
  
-- 🔭 I’m currently working on chicken-disease-classification
+- 🔭 I’m currently working on Movie Recommender
 
 <!--- 🌱 I’m currently Working on Mobile App(React-Native) -->
 
@@ -112,7 +112,7 @@ Some things about me : </div>
 <h1>Some of my Projects! 🎨</h1>
 <table>
   <tr>
-<!--     <td align="left">
+   <td align="left">
       <a href="https://github.com/kv1729/Students_Score_Predictor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=Students_Score_Predictor" alt="Students Score Predictor">
       </a>
@@ -121,7 +121,7 @@ Some things about me : </div>
       <a href="https://github.com/kv1729/IPL_second_innings_match_win_predictor_HEROKU">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=IPL_second_innings_match_win_predictor_HEROKU" alt="IPL Second Innings Match Win Predictor">
       </a>
-    </td> -->
+    </td>
   </tr>
 </table>
 <!--- stats & Trophy (start) -->
