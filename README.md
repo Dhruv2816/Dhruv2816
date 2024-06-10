@@ -113,12 +113,12 @@ Some things about me : </div>
 <table>
   <tr>
    <td align="left">
-      <a href="https://github.com/kv1729/Students_Score_Predictor">
+      <a href="https://github.com/Dhruv2816/Movie_recommender">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=Students_Score_Predictor" alt="Students Score Predictor">
       </a>
     </td>
     <td align="right">
-      <a href="https://github.com/kv1729/IPL_second_innings_match_win_predictor_HEROKU">
+      <a href="https://github.com/Dhruv2816/Movie_recommender">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kv1729&repo=IPL_second_innings_match_win_predictor_HEROKU" alt="IPL Second Innings Match Win Predictor">
       </a>
     </td>
