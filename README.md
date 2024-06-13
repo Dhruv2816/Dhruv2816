@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Singh!;" />
 </h1> 
 
-<h3 align="center">A passionate Front end Developer/Data scientist from India IN</h3>
+<h3 align="center">A passionate CybeSecurity Analyst/Data scientist from India IN</h3>
 
 
 <div align="center">
@@ -35,7 +35,7 @@ Some things about me : </div>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Machine learning && computer vision
+- 🌱 I’m currently learning Machine learning && Linux line-commands
 
 <!---- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)-->
 
