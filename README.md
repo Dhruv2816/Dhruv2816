@@ -29,7 +29,7 @@ Some things about me : </div>
 </a>
  -->
  
-- 🔭 I’m currently working on Movie Recommender
+- 🔭 I’m currently working on Flight Fare Predictor
 
 <!--- 🌱 I’m currently Working on Mobile App(React-Native) -->
 
